@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **a website that uses gacha game revenue to display results based off the users input.**  
-🌱 &nbsp;I'm currently learning **data analysis - python + sql**  
+🌱 &nbsp;I'm currently learning **data analysis - python + sql w/ specialization in game and web development.**  
 💬 &nbsp;Ask me about **my career path &amp; how I learn!**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I'm one of the few people in my family that can code!**
