@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=550&height=44&lines=data%20engineering%20%2F%20backend%20web%20dev" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=550&height=44&lines=data%analysis%20%2F%20backend%20web%20dev" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
